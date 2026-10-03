@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
+<rect width="1400" height="360" fill="#f1e7d9"/>
+<text x="60" y="58" fill="#ac482e" font-family="Consolas,monospace" font-size="13" letter-spacing="3">CHAOOOOOL / PERSONAL PROJECTS</text>
+<text x="60" y="145" fill="#302d29" font-family="Georgia,serif" font-size="65">Hi, I'm Chao.</text>
+<text x="63" y="199" fill="#77716a" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23">这里放着我写的工具和一些兴趣项目。</text>
+<text x="63" y="239" fill="#77716a" font-family="Arial,sans-serif" font-size="20">Engineering · Automation · Minecraft / GTNH</text>
+<g fill="none" stroke="#bd5637" stroke-opacity=".48" stroke-width="1.5">
+<circle cx="1210" cy="220" r="129"/><circle cx="1210" cy="220" r="93"/><circle cx="1210" cy="220" r="56"/>
+<path d="M1041 355L1380 67 M1035 89L1390 355 M1210 29V360 M1010 220H1400"/>
+</g><circle cx="1210" cy="220" r="12" fill="#bd5637" fill-opacity=".52"/>
+</svg>
