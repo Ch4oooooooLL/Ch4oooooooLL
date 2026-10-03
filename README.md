@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Hi, I'm Chao. 这里放着我写的工具和一些兴趣项目。Engineering · Automation · Minecraft / GTNH" width="100%" />
-</p>
+# Hi, I'm Chao.
+
+这里放着我写的工具和一些兴趣项目。
 
 ## 关于我
 
